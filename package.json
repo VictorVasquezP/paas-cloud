@@ -1,0 +1,19 @@
+{
+  "name": "paas-cloud-victor",
+  "version": "1.0.0",
+  "description": "servicio paas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "14.15.5"
+  },
+  "test": "echo \"Error: no test specified\" && exit 1",
+  "author": "Victor",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

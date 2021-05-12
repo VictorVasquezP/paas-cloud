@@ -1,0 +1,12 @@
+[
+    {
+        "id":"1",
+        "termino":"saas",
+        "descripcion":"software as a service"
+    },
+    {
+        "id":"2",
+        "termino":"paas",
+        "descripcion":"platform as a service"
+    }
+]
